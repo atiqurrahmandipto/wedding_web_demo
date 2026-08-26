@@ -1,0 +1,28 @@
+# Visual Studio & .NET
+bin/
+obj/
+*.user
+.vs/
+_ReSharper*/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Node & Next.js
+node_modules/
+digital-invitation/node_modules/
+.next/
+digital-invitation/.next/
+out/
+digital-invitation/out/
+build/
+digital-invitation/build/
+
+# Logs & Environment
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env*.local
+.DS_Store
+Thumbs.db
